@@ -11,6 +11,11 @@ h1 {
     color: #3f00fd;
 }
 
+h2 {
+    font-size: 1.5rem;
+    color: #f90a76;
+}
+
 p {
     line-height: 1.2rem;
 }
